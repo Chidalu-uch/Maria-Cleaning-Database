@@ -1,4 +1,5 @@
 Database Engineering (Marcia's Dry Cleaning)
+---
 Designed and implemented a relational database schema featuring structured tables to manage customers, services, invoices, and transaction items.
 
 Enforced strict data integrity by configuring primary and foreign keys alongside automated cascading updates and deletions to maintain data synchronization.
